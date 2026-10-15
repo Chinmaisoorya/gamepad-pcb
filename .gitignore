@@ -1,0 +1,11 @@
+# KiCad
+*.kicad_prl
+*-backups/
+*.bak
+fp-info-cache
+_autosave-*
+*.lck
+
+# OS
+.DS_Store
+Thumbs.db
